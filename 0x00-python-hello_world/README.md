@@ -7,3 +7,5 @@ The first project I got was to create a shell file that runs a python script and
 When running python code from a shell script, it is imperative that I use the ( <<< ) sign, to tell the script from whichvariable I am referring to.
 
 When writing a python script, always include the #!/usr/bin/python3 path. The python command is not installed on my webterm, so the script needs to include this path for it to run.
+
+f strings are used for string formating, where I can insert a variable inside a placeholder. f string (formating string).
